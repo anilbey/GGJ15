@@ -12,10 +12,11 @@ public class PlayerControl : MonoBehaviour
 	public float moveForce = 365f;			// Amount of force added to move the player left and right.
 	public float maxSpeed = 5f;				// The fastest the player can travel in the x axis.
 	public float jumpForce = 1000f;			// Amount of force added when the player jumps.
-	private Transform groundCheck;			// A position marking where to check if the player is grounded.
-	private bool grounded = false;			// Whether or not the player is grounded.
+	public Transform groundCheck;			// A position marking where to check if the player is grounded.
+	public bool grounded = false;			// Whether or not the player is grounded.
+	public bool grounded2 = false;
 	private Animator anim;					// Reference to the player's animator component.
-
+	public bool die=false;
 
 	void Awake()
 	{
@@ -29,7 +30,8 @@ public class PlayerControl : MonoBehaviour
 	{
 		// The player is grounded if a linecast to the groundcheck position hits anything on the ground layer.
 		grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));  
-
+		grounded2 = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Head")); 
+		grounded = grounded || grounded2;
 		// If the jump button is pressed and the player is grounded then the player should jump.
 		if(Input.GetKeyDown(KeyCode.W) && grounded)
 			jump = true;
@@ -38,6 +40,11 @@ public class PlayerControl : MonoBehaviour
 
 	void FixedUpdate ()
 	{
+		if (die) {
+			anim.SetBool ("Die", true);
+			die=false;
+				}
+			
 		// Cache the horizontal input.
 		float h = 0;
 		if (Input.GetKey (KeyCode.A))
@@ -61,11 +68,11 @@ public class PlayerControl : MonoBehaviour
 			rigidbody2D.velocity = new Vector2(Mathf.Sign(rigidbody2D.velocity.x) * maxSpeed, rigidbody2D.velocity.y);
 
 		// If the input is moving the player right and the player is facing left...
-		if(h > 0 && facingRight)
+		if(h > 0 && !facingRight)
 			// ... flip the player.
 			Flip();
 		// Otherwise if the input is moving the player left and the player is facing right...
-		else if(h < 0 && !facingRight)
+		else if(h < 0 && facingRight)
 			// ... flip the player.
 			Flip();
 
