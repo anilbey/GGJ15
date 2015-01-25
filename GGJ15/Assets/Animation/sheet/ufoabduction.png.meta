@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: a4b9646e34ee74b4aa7108e18ae064f6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ufoabduction_0
+    21300002: ufoabduction_1
+    21300004: ufoabduction_2
+    21300006: ufoabduction_3
+    21300008: ufoabduction_4
+    21300010: ufoabduction_5
+    21300012: ufoabduction_6
+    21300014: ufoabduction_7
+    21300016: ufoabduction_8
+    21300018: ufoabduction_9
+    21300020: ufoabduction_10
+    21300022: ufoabduction_11
+    21300024: ufoabduction_12
+    21300026: ufoabduction_13
+    21300028: ufoabduction_14
+    21300030: ufoabduction_15
+    21300032: ufoabduction_16
+    21300034: ufoabduction_17
+    21300036: ufoabduction_18
+    21300038: ufoabduction_19
+    21300040: ufoabduction_20
+    21300042: ufoabduction_21
+    21300044: ufoabduction_22
+    21300046: ufoabduction_23
+    21300048: ufoabduction_24
+    21300050: ufoabduction_25
+    21300052: ufoabduction_26
+    21300054: ufoabduction_27
+    21300056: ufoabduction_28
+    21300058: ufoabduction_29
+    21300060: ufoabduction_30
+    21300062: ufoabduction_31
+    21300064: ufoabduction_32
+    21300066: ufoabduction_33
+    21300068: ufoabduction_34
+    21300070: ufoabduction_35
+    21300072: ufoabduction_36
+    21300074: ufoabduction_37
+    21300076: ufoabduction_38
+    21300078: ufoabduction_39
+    21300080: ufoabduction_40
+    21300082: ufoabduction_41
+    21300084: ufoabduction_42
+    21300086: ufoabduction_43
+    21300088: ufoabduction_44
+    21300090: ufoabduction_45
+    21300092: ufoabduction_46
+    21300094: ufoabduction_47
+    21300096: ufoabduction_48
+    21300098: ufoabduction_49
+    21300100: ufoabduction_50
+    21300102: ufoabduction_51
+    21300104: ufoabduction_52
+    21300106: ufoabduction_53
+    21300108: ufoabduction_54
+    21300110: ufoabduction_55
+    21300112: ufoabduction_56
+    21300114: ufoabduction_57
+    21300116: ufoabduction_58
+    21300118: ufoabduction_59
+    21300120: ufoabduction_60
+    21300122: ufoabduction_61
+    21300124: ufoabduction_62
+    21300126: ufoabduction_63
+    21300128: ufoabduction_64
+    21300130: ufoabduction_65
+    21300132: ufoabduction_66
+    21300134: ufoabduction_67
+    21300136: ufoabduction_68
+    21300138: ufoabduction_69
+    21300140: ufoabduction_70
+    21300142: ufoabduction_71
+    21300144: ufoabduction_72
+    21300146: ufoabduction_73
+    21300148: ufoabduction_74
+    21300150: ufoabduction_75
+    21300152: ufoabduction_76
+    21300154: ufoabduction_77
+    21300156: ufoabduction_78
+    21300158: ufoabduction_79
+    21300160: ufoabduction_80
+    21300162: ufoabduction_81
+    21300164: ufoabduction_82
+    21300166: ufoabduction_83
+    21300168: ufoabduction_84
+    21300170: ufoabduction_85
+    21300172: ufoabduction_86
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ufoabduction_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_37
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_45
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_53
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_55
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_59
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_60
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_61
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_63
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_66
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_67
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_68
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_69
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_70
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_71
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_76
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_77
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_79
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 704
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_84
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_85
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufoabduction_86
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 204
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

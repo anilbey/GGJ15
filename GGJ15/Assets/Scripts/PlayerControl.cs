@@ -6,7 +6,7 @@ public class PlayerControl : MonoBehaviour
 	[HideInInspector]
 	public bool facingRight = true;			// For determining which way the player is currently facing.
 	[HideInInspector]
-	public bool jump = false;				// Condition for whether the player should jump.
+	public static bool jump = false;				// Condition for whether the player should jump.
 
 
 	public float moveForce = 365f;			// Amount of force added to move the player left and right.
@@ -18,11 +18,22 @@ public class PlayerControl : MonoBehaviour
 	private Animator anim;					// Reference to the player's animator component.
 	public bool die=false;
 
+	public AudioClip Jump;
+	public AudioClip FootStepLeft;
+	public AudioClip FootStepRight;
+
+	private bool isRight;
+
+	public float sure;
+
+
 	void Awake()
 	{
 		// Setting up references.
 		groundCheck = transform.Find("groundCheck");
 		anim = GetComponent<Animator>();
+		sure = 0f;
+		isRight = false;
 	}
 
 
@@ -56,11 +67,21 @@ public class PlayerControl : MonoBehaviour
 		//anim.SetFloat("Speed", Mathf.Abs(h));
 		anim.SetFloat("Speed", Mathf.Abs(rigidbody2D.velocity.x));
 
+		//FootStep sound
+		if (Mathf.Abs (rigidbody2D.velocity.x) > 0.2 && grounded && Time.time > sure + FootStepLeft.length + 0.175) {
+			
+			sure = Time.time;
+			audio.PlayOneShot((isRight ? FootStepLeft : FootStepRight));
+			isRight = (isRight == true ? false : true);
+			
+		}
+
 
 		// If the player is changing direction (h has a different sign to velocity.x) or hasn't reached maxSpeed yet...
 		if(h * rigidbody2D.velocity.x < maxSpeed)
 			// ... add a force to the player.
 			rigidbody2D.AddForce(Vector2.right * h * moveForce);
+
 
 		// If the player's horizontal velocity is greater than the maxSpeed...
 		if(Mathf.Abs(rigidbody2D.velocity.x) > maxSpeed)
@@ -87,6 +108,10 @@ public class PlayerControl : MonoBehaviour
 			// Add a vertical force to the player.
 			rigidbody2D.AddForce(new Vector2(0f, jumpForce));
 
+			//Jump Audio
+			audio.Stop();
+			audio.PlayOneShot(Jump);
+			
 			// Make sure the player can't jump again until the jump conditions from Update are satisfied.
 			jump = false;
 		}

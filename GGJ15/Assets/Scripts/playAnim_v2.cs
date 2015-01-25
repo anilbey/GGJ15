@@ -36,7 +36,7 @@ public class playAnim_v2 : MonoBehaviour {
 		else if (playParentParent)
 		{
 			this.transform.parent.parent.GetComponent<Animator>().SetBool(parameter,true);
-			print ("entered");
+			//print ("entered");
 		}
 		else
 			this.GetComponent<Animator>().SetBool(parameter,true);

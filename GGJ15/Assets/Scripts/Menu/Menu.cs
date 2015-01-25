@@ -84,7 +84,7 @@ public class Menu : MonoBehaviour
 		
         if (Oyna) 
 		{
-			Application.LoadLevel("intro");
+			Application.LoadLevel(1);
 		}
 		else if (BolumSec) 
 		{

@@ -10,6 +10,8 @@ public class OnDeath : MonoBehaviour {
 	public Transform player1;
 	public Transform player2;
 
+	public AudioClip ouch;
+	public AudioClip teleportSnd;
 
 	public void CheckpointMgr() 
 	{
@@ -39,6 +41,9 @@ public class OnDeath : MonoBehaviour {
 	{
 		if (coll.gameObject.tag == "Thorn")
 		{
+			//Jump Audio
+			audio.Stop();
+			audio.PlayOneShot(ouch);
 			Invoke("teleport",1);
 
 		}
@@ -48,6 +53,8 @@ public class OnDeath : MonoBehaviour {
 	void teleport(){
 
 		this.CheckpointMgr();
+		audio.Stop();
+		audio.PlayOneShot(teleportSnd);
 		//print (activePoint.transform.position.x);
 		player1.position = activePoint.transform.position;
 		player2.position = new Vector3(activePoint.transform.position.x + 3* ((Random.Range(0,4) % 2 ==1) ? -1 : 1), activePoint.transform.position.y, activePoint.transform.position.z);

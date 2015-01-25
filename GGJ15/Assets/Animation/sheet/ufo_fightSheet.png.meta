@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 2cf459990be8646c39a425b6c8ce1448
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ufo_fightSheet_0
+    21300002: ufo_fightSheet_1
+    21300004: ufo_fightSheet_2
+    21300006: ufo_fightSheet_3
+    21300008: ufo_fightSheet_4
+    21300010: ufo_fightSheet_5
+    21300012: ufo_fightSheet_6
+    21300014: ufo_fightSheet_7
+    21300016: ufo_fightSheet_8
+    21300018: ufo_fightSheet_9
+    21300020: ufo_fightSheet_10
+    21300022: ufo_fightSheet_11
+    21300024: ufo_fightSheet_12
+    21300026: ufo_fightSheet_13
+    21300028: ufo_fightSheet_14
+    21300030: ufo_fightSheet_15
+    21300032: ufo_fightSheet_16
+    21300034: ufo_fightSheet_17
+    21300036: ufo_fightSheet_18
+    21300038: ufo_fightSheet_19
+    21300040: ufo_fightSheet_20
+    21300042: ufo_fightSheet_21
+    21300044: ufo_fightSheet_22
+    21300046: ufo_fightSheet_23
+    21300048: ufo_fightSheet_24
+    21300050: ufo_fightSheet_25
+    21300052: ufo_fightSheet_26
+    21300054: ufo_fightSheet_27
+    21300056: ufo_fightSheet_28
+    21300058: ufo_fightSheet_29
+    21300060: ufo_fightSheet_30
+    21300062: ufo_fightSheet_31
+    21300064: ufo_fightSheet_32
+    21300066: ufo_fightSheet_33
+    21300068: ufo_fightSheet_34
+    21300070: ufo_fightSheet_35
+    21300072: ufo_fightSheet_36
+    21300074: ufo_fightSheet_37
+    21300076: ufo_fightSheet_38
+    21300078: ufo_fightSheet_39
+    21300080: ufo_fightSheet_40
+    21300082: ufo_fightSheet_41
+    21300084: ufo_fightSheet_42
+    21300086: ufo_fightSheet_43
+    21300088: ufo_fightSheet_44
+    21300090: ufo_fightSheet_45
+    21300092: ufo_fightSheet_46
+    21300094: ufo_fightSheet_47
+    21300096: ufo_fightSheet_48
+    21300098: ufo_fightSheet_49
+    21300100: ufo_fightSheet_50
+    21300102: ufo_fightSheet_51
+    21300104: ufo_fightSheet_52
+    21300106: ufo_fightSheet_53
+    21300108: ufo_fightSheet_54
+    21300110: ufo_fightSheet_55
+    21300112: ufo_fightSheet_56
+    21300114: ufo_fightSheet_57
+    21300116: ufo_fightSheet_58
+    21300118: ufo_fightSheet_59
+    21300120: ufo_fightSheet_60
+    21300122: ufo_fightSheet_61
+    21300124: ufo_fightSheet_62
+    21300126: ufo_fightSheet_63
+    21300128: ufo_fightSheet_64
+    21300130: ufo_fightSheet_65
+    21300132: ufo_fightSheet_66
+    21300134: ufo_fightSheet_67
+    21300136: ufo_fightSheet_68
+    21300138: ufo_fightSheet_69
+    21300140: ufo_fightSheet_70
+    21300142: ufo_fightSheet_71
+    21300144: ufo_fightSheet_72
+    21300146: ufo_fightSheet_73
+    21300148: ufo_fightSheet_74
+    21300150: ufo_fightSheet_75
+    21300152: ufo_fightSheet_76
+    21300154: ufo_fightSheet_77
+    21300156: ufo_fightSheet_78
+    21300158: ufo_fightSheet_79
+    21300160: ufo_fightSheet_80
+    21300162: ufo_fightSheet_81
+    21300164: ufo_fightSheet_82
+    21300166: ufo_fightSheet_83
+    21300168: ufo_fightSheet_84
+    21300170: ufo_fightSheet_85
+    21300172: ufo_fightSheet_86
+    21300174: ufo_fightSheet_87
+    21300176: ufo_fightSheet_88
+    21300178: ufo_fightSheet_89
+    21300180: ufo_fightSheet_90
+    21300182: ufo_fightSheet_91
+    21300184: ufo_fightSheet_92
+    21300186: ufo_fightSheet_93
+    21300188: ufo_fightSheet_94
+    21300190: ufo_fightSheet_95
+    21300192: ufo_fightSheet_96
+    21300194: ufo_fightSheet_97
+    21300196: ufo_fightSheet_98
+    21300198: ufo_fightSheet_99
+    21300200: ufo_fightSheet_100
+    21300202: ufo_fightSheet_101
+    21300204: ufo_fightSheet_102
+    21300206: ufo_fightSheet_103
+    21300208: ufo_fightSheet_104
+    21300210: ufo_fightSheet_105
+    21300212: ufo_fightSheet_106
+    21300214: ufo_fightSheet_107
+    21300216: ufo_fightSheet_108
+    21300218: ufo_fightSheet_109
+    21300220: ufo_fightSheet_110
+    21300222: ufo_fightSheet_111
+    21300224: ufo_fightSheet_112
+    21300226: ufo_fightSheet_113
+    21300228: ufo_fightSheet_114
+    21300230: ufo_fightSheet_115
+    21300232: ufo_fightSheet_116
+    21300234: ufo_fightSheet_117
+    21300236: ufo_fightSheet_118
+    21300238: ufo_fightSheet_119
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ufo_fightSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_61
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_62
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_63
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_69
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_70
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_71
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_76
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_77
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_78
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_79
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_82
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_84
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_85
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_86
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_87
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_90
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_91
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_92
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_93
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_94
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_95
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2000
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_97
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_100
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_101
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_102
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_103
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1488
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_105
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_106
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_107
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_108
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_109
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_110
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_111
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 976
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_115
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_116
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_117
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_118
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ufo_fightSheet_119
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 464
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

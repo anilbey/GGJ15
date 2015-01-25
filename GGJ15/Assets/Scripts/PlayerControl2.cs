@@ -18,11 +18,22 @@ public class PlayerControl2 : MonoBehaviour
 	private Animator anim;					// Reference to the player's animator component.
 	public bool die;
 
+	public AudioClip Jump;
+	public AudioClip FootStepLeft;
+	public AudioClip FootStepRight;
+	
+	private bool isRight;
+	
+	public float sure;
+
+
 	void Awake()
 	{
 		// Setting up references.
 		groundCheck = transform.Find("groundCheck");
 		anim = GetComponent<Animator>();
+		sure = 0f;
+		isRight = false;
 	}
 
 
@@ -55,6 +66,18 @@ public class PlayerControl2 : MonoBehaviour
 		// The Speed animator parameter is set to the absolute value of the horizontal input.
 		//anim.SetFloat("Speed", Mathf.Abs(h));
 		anim.SetFloat("Speed", Mathf.Abs(rigidbody2D.velocity.x));
+
+
+		//FootStep sound
+		if (Mathf.Abs (rigidbody2D.velocity.x) > 0.2 && grounded && Time.time > sure + FootStepLeft.length + 0.175) {
+			
+			sure = Time.time;
+			audio.PlayOneShot((isRight ? FootStepLeft : FootStepRight));
+			isRight = (isRight == true ? false : true);
+			
+		}
+
+
 		// If the player is changing direction (h has a different sign to velocity.x) or hasn't reached maxSpeed yet...
 		if(h * rigidbody2D.velocity.x < maxSpeed)
 			// ... add a force to the player.
@@ -83,6 +106,10 @@ public class PlayerControl2 : MonoBehaviour
 
 			// Add a vertical force to the player.
 			rigidbody2D.AddForce(new Vector2(0f, jumpForce));
+
+			//Jump Audio
+			audio.Stop();
+			audio.PlayOneShot(Jump);
 
 			// Make sure the player can't jump again until the jump conditions from Update are satisfied.
 			jump = false;
