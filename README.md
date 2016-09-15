@@ -15,7 +15,6 @@ Diversifiers: Noise Generator: The mechanic of the game is based on players havi
 Platforms: MS Windows, Mac OS X, Linux / Unix, Web browser with special plugins or packaged apps
 
 Credits: 
-
 Serdar Südor, Dorukhan Gülöz, Mustafa Anıl Tuncel, İbrahim Cereci, Bedirhan Akcan, Tahsin Tolga Yavuz
 
 Special thanks to Matthew Pablo, the composer the music used in main menu and gameplay.
