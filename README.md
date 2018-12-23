@@ -20,7 +20,7 @@ It is free and open source. :clap: :tada:
 
 #### Build
 
-To build the game, you need to open the project folder (the one containing Assets and ProjectSettings) in Unity3D.
+To build the game, you need to open the project folder (the one containing Assets and ProjectSettings) in Unity3D. Later, you can build the game into various platforms including Windows, Mac, Linux, PlayStation etc.
 
 ## Screenshots
 
